@@ -1,1 +1,1 @@
-# <a href="http://cwebcn.club">webcn.club</a>
+# <a href="http://cwebcn.club" target="_blank">webcn.club</a>
